@@ -64,20 +64,22 @@ async function KleeProject() {
 
     return KleeBotInc;
 }
-console.log(color + `Running... spam-pairing-wa
+console.log(color +`
+========================= 
+Nama pembuat script[Rizky]
 =========================
- • spam-pairing-wa:Rizky.088
- • by FlowFalcon
- • do not misuse 
+1•WhatsApp +6283850540570
+2•Instagram Rizky.0_o
+3•Nama saya Rizky
+4•Bisalah gunakan ya bray✓
 =========================
-┏❐ 
-┃ [ FOLLOW THE INSTRUCTIONS BELOW, TO SPAM ]
+┏❐
+┃ [FOLLOW THE INSTRUCTIONS BELOW TO SPAM]
 ┃
-┃⭔ Target Number ( 62xxxxxxx )
-┃⭔ how much spam ( 1-1000 )
+┃⭔ Target Number ( 62xxxxxxx )                                  ┃⭔ how much spam ( 1-5000 )
 ┃
-┃ [ THIS TOOL CAN ONLY BE USED ON NUMBER +62 ]
-┗❐ 
+┃ [THIS TOOL CAN ONLY BE USED ON NUMBER +62] 
+┗❐
 =========================` + xColor);
 
 KleeProject();
