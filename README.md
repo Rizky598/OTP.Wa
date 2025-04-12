@@ -2,10 +2,8 @@
 Tools Spam Pairing Whatsapp using Javascript and Nodejs
 <div align="center">
   <p>
-
     <img src="1.jpg" width="250">
-    
-</p>
+    </p>
   
 ### Whatsapp Group
 
