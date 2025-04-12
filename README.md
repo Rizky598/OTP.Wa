@@ -23,7 +23,6 @@ npm start
   <li><strong>Website</strong>: <a href="https://www.flowfalcon.xyz/">https://www.flowfalcon.xyz/</a></li>
   <li><strong>Github</strong>: <a href="https://github.com/FlowFalcon">https://github.com/FlowFalcon</a></li>
 </ul>
-## 🌐 Join Us
 
 ### Whatsapp Group
 
