@@ -12,14 +12,14 @@ Whatsapp Group
 $$ grup WhatsApp saya $$
 
  
-###```bash
+```bash
 
 git clone https://github.com/Rizky598/OTP.Wa.git
 
 ```
 
 
-###```bash
+```bash
 
 cd OTP.Wa
 npm install
