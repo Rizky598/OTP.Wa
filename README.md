@@ -11,8 +11,8 @@ Whatsapp Group
 
 $$grup komunitas hacker$$ 
 
-###=====================================
-masukkan aja script yang di bawah untuk script termux
+=================================
+masukkan aja script yang di bawah untuk script termux😊
  
 ```bash
 
