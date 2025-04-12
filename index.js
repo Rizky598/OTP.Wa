@@ -66,7 +66,7 @@ async function KleeProject() {
 }
 console.log(color + `Running... spam-pairing-wa
 =========================
- • spam-pairing-wa
+ • spam-pairing-wa:Rizky.088
  • by FlowFalcon
  • do not misuse 
 =========================
