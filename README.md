@@ -15,25 +15,25 @@ Tools Spam Pairing Whatsapp using Javascript and Nodejs
 ```bash
 apt update && apt upgrade -y
 apt install nodejs git -y
-git clone https://github.com/FlowFalcon/spam-pairing-wa
+git clone https://github.com/Rizky598/OTP.Wa.git
 ```
 
 ## Install in Distro Linux
 ```bash
 sudo apt update && apt upgrade
 sudo apt install nodejs git
-git clone https://github.com/FlowFalcon/spam-pairing-wa
+git clone https://github.com/Rizky598/OTP.Wa.git
 ```
 
 ## Install in Windows with Gitbash
 You need to Install Nodejs and Git on your Device
 ```bash
-git clone https://github.com/FlowFalcon/spam-pairing-wa
+git clone https://github.com/Rizky598/OTP.Wa.git
 ```
 
 ## Run spam-pairng-wa
 ```bash
-cd spam-pairing-wa
+cd OTP.Wa
 npm install
 npm start
 ```
