@@ -13,7 +13,6 @@ You need to Install Nodejs and Git on your Device
 git clone https://github.com/Rizky598/OTP.Wa.git
 ```
 
-## Run spam-pairng-wa
 ```bash
 cd OTP.Wa
 npm install
