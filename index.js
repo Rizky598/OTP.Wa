@@ -76,7 +76,8 @@ Nama pembuat script[Rizky]
 ┏❐
 ┃ [FOLLOW THE INSTRUCTIONS BELOW TO SPAM]
 ┃
-┃⭔ Target Number ( 62xxxxxxx )                                  ┃⭔ how much spam ( 1-5000 )
+┃⭔ Target Number ( 62xxxxxxx ) 
+┃⭔ how much spam ( 1-5000 )
 ┃
 ┃ [THIS TOOL CAN ONLY BE USED ON NUMBER +62] 
 ┗❐
