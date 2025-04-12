@@ -1,4 +1,4 @@
-# spam-pairing-wa
+# semoga berhasil ngerjain temennya😊
 Tools Spam Pairing Whatsapp using Javascript and Nodejs
 <div align="center">
   <p>
