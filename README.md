@@ -4,11 +4,15 @@ Tools Spam Pairing Whatsapp using Javascript and Nodejs
   <p>
     <img src="1.jpg" width="250">
   </p>
+  
 ## Install in Windows with Gitbash
 You need to Install Nodejs and Git on your Device
+
+  
 ```bash
 git clone https://github.com/Rizky598/OTP.Wa.git
 ```
+
 
 ## Run spam-pairng-wa
 ```bash
